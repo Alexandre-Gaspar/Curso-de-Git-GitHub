@@ -1,2 +1,2 @@
-const text = 'mercado-pago';
+const text = 'devedor';
 console.log(text);
